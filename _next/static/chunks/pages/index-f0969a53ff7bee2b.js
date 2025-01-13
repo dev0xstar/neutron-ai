@@ -97,7 +97,7 @@
                     className: "flex justify-center align-items-start mb-10",
                     children: (0, l.jsx)("span", {
                       className: "typo-heading-1 text-primary",
-                      children: "FusionAI",
+                      children: "Neutron AI",
                     }),
                   }),
                   (0, l.jsxs)("div", {
@@ -106,7 +106,7 @@
                       (0, l.jsxs)("span", {
                         className: "typo-body-1 text-primary",
                         children: [
-                          "Welcome to the FusionAI!",
+                          "Welcome to the Neutron AI!",
                           (0, l.jsx)("br", {}),
                           (0, l.jsx)("br", {}),
                         ],
@@ -1595,7 +1595,7 @@
                         (0, l.jsx)(eo, {
                           rows: 5,
                           placeholder:
-                            "Greetings, Welcome to the Fusion Reactor",
+                            "Greetings, Welcome to the Neutron Reactor",
                           value: p,
                           onChange: (e) => u(e.target.value),
                         }),
