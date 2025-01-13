@@ -1283,7 +1283,7 @@
                 (0, l.jsx)(f, {
                   icon: b.c.Telegram.src,
                   label: "Telegram",
-                  href: "https://t.me/Fusion_ERC20",
+                  href: "https://t.me/neutron_ai_eth",
                   target: "_blank",
                   onContextMenu: (e) => {
                     e.stopPropagation(), e.preventDefault();
@@ -1292,7 +1292,7 @@
                 (0, l.jsx)(f, {
                   icon: b.c.Twitter.src,
                   label: "Twitter",
-                  href: "https://x.com/",
+                  href: "https://x.com/neutron_ai_eth",
                   target: "_blank",
                   onContextMenu: (e) => {
                     e.stopPropagation(), e.preventDefault();
